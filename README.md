@@ -1,3 +1,16 @@
+# PicoPlanetDev's Marlin for Tevo Tarantula
+In the process of rebuilding my original Tarantula with some new upgrades, I have customized some Marlin settings and wanted to share them for anyone with a similar setup.
+
+**My changes to the machine:**
+- MKS Gen L v2.1 control board
+- TMC2209 stepper drivers
+- BLTouch auto leveling probe
+- Inverted Z axis
+
+In the future, I might add a dual Z axis as well. However, in the meantime this just serves as an example configuration for a Tevo Tarantula.
+
+Maybe when I have some more time I may try to make an EasyConfig in the spirit of [JimBrown/MarlinTarantula](https://github.com/JimBrown/MarlinTarantula)
+
 <p align="center"><img src="buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" height="250" alt="MarlinFirmware's logo" /></p>
 
 <h1 align="center">Marlin 3D Printer Firmware</h1>
